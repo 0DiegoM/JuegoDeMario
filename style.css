@@ -1,0 +1,44 @@
+.mamamia {
+    width: 100%;
+    
+}
+
+.heading {
+    text-align: left;
+    width: 100%;
+}
+
+.heading h3 {
+display: inline;
+}
+
+.heading button {
+float: right;
+border: 1px solid white;
+}
+
+#start, #status {
+    font-size: 22px;
+}
+
+h4, a {
+    background-color: gray;
+    color: white;
+    font-size: 24;
+}
+
+.modal-dialog {
+    width: 80%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
